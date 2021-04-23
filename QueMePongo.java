@@ -6,6 +6,7 @@ public class QueMePongo {
 		Prenda zapatos = new Zapatos("Cuero","Negro",null);
 		Prenda pantalon = new Pantalon("Jean","Azul",null);
 		Prenda camisaMangasCortas = new CamisaMangasCortas("Algodon","Rojo","Blnco");
+		Prenda anteojos = new Anteojos("Plastico","Negro",null);
 		
 	}
 }
